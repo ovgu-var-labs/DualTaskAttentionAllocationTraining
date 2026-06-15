@@ -1,0 +1,13 @@
+# Blender 4.4.3 MTL File: 'Male Low Poly Hairstyles Free Sample.blend'
+# www.blender.org
+
+newmtl Hair_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/T_MaleHair_01_DarkBrown_BaseColor.png
+map_Ks C:/T_MaleHair_01_Specular.png
+map_Bump -bm 1.000000 C:/T_MaleHair_01_NormalOpenGL.png

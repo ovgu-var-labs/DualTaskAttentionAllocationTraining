@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="holoinjection_third" size="0.080000 0.080000" />
+    <ImageTarget name="holoinjection_last" size="0.080000 0.080000" />
+    <ImageTarget name="holoinjection_second" size="0.080000 0.080000" />
+    <ImageTarget name="holoinjection_main" size="0.080000 0.080000" />
+  </Tracking>
+</QCARConfig>
